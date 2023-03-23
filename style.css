@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-image: url(https://cdnb.artstation.com/p/assets/images/images/049/732/957/original/nguyen-trong-luan-animation-huge.gif?1653201989);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 12vh;
+}
+h1 {
+    margin-bottom: 10px;
+    text-align: justify;
+}
+input {
+    margin: 10px;
+    background: #333;
+    color: #fff;
+    text-align: center;
+}
+#igual {
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 20px;
+    background: #333;
+    color: #fff;
+}
+footer {
+    margin-top: 320px;
+    color: #fff;
+}
